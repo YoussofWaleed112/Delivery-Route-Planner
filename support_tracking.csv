@@ -1,0 +1,7 @@
+id,area,priority,weight_kg,trip_number,sla,status
+2,Maadi,1,2.0,1,Deliver within 2h,Pending
+4,Zamalek,1,2.0,1,Deliver within 2h,Pending
+6,Zamalek,1,1.0,1,Deliver within 2h,Pending
+5,Maadi,2,3.5,1,Deliver within 4h,Pending
+1,Nasr City,2,4.5,2,Deliver within 4h,Pending
+3,Nasr City,3,1.2,1,Deliver within 8h,Pending

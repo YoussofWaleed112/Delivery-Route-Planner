@@ -1,0 +1,55 @@
+{
+  "trips": [
+    {
+      "trip_number": 1,
+      "area": "Maadi",
+      "total_weight_kg": 9.7,
+      "deliveries": [
+        {
+          "id": 2,
+          "area": "Maadi",
+          "priority": 1,
+          "weight_kg": 2.0
+        },
+        {
+          "id": 5,
+          "area": "Maadi",
+          "priority": 2,
+          "weight_kg": 3.5
+        },
+        {
+          "id": 4,
+          "area": "Zamalek",
+          "priority": 1,
+          "weight_kg": 2.0
+        },
+        {
+          "id": 6,
+          "area": "Zamalek",
+          "priority": 1,
+          "weight_kg": 1.0
+        },
+        {
+          "id": 3,
+          "area": "Nasr City",
+          "priority": 3,
+          "weight_kg": 1.2
+        }
+      ]
+    },
+    {
+      "trip_number": 2,
+      "area": "Nasr City",
+      "total_weight_kg": 4.5,
+      "deliveries": [
+        {
+          "id": 1,
+          "area": "Nasr City",
+          "priority": 2,
+          "weight_kg": 4.5
+        }
+      ]
+    }
+  ],
+  "unassignable": []
+}

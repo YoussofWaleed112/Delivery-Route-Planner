@@ -1,0 +1,14 @@
+DRIVER Report
+==================================================
+
+Trip 1 - Maadi, Zamalek, Nasr City (9.7 kg)
+--------------------------------------------------
+[ ] Stop 1: #2   Maadi        priority 1  (2.0 kg)
+[ ] Stop 2: #5   Maadi        priority 2  (3.5 kg)
+[ ] Stop 3: #4   Zamalek      priority 1  (2.0 kg)
+[ ] Stop 4: #6   Zamalek      priority 1  (1.0 kg)
+[ ] Stop 5: #3   Nasr City    priority 3  (1.2 kg)
+
+Trip 2 - Nasr City (4.5 kg)
+--------------------------------------------------
+[ ] Stop 1: #1   Nasr City    priority 2  (4.5 kg)
